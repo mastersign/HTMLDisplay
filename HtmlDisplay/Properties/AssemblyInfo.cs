@@ -7,12 +7,12 @@ using System.Windows;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("HtmlDisplay")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("HTML Display")]
+[assembly: AssemblyDescription("DIsplay local HTML file and update automatically when file changes")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HtmlDisplay")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCompany("Tobias Kiertscher")]
+[assembly: AssemblyProduct("HTML Display")]
+[assembly: AssemblyCopyright("Copyright © Tobias Kiertscher 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
