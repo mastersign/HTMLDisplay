@@ -13,7 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace HtmlDisplay
+
+namespace Mastersign.HtmlDisplay
 {
     /// <summary>
     /// Interaktionslogik für MainWindow.xaml

@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{EE25F4D0-DB71-4E8F-BEAB-0BDBC5CB71AB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>HtmlDisplay</RootNamespace>
+    <RootNamespace>Mastersign.HtmlDisplay</RootNamespace>
     <AssemblyName>HtmlDisplay</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
