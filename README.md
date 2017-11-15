@@ -25,11 +25,11 @@ This project is released under the MIT license.
 
 Copyright © by Tobias Kiertscher <dev@mastersign.de>.
 
-[release-url]: https://github.com/mastersign/HTMLDisplay/releases/latest/
-[release-img]: https://img.shields.io/github/release/mastersign/HTMLDisplay.svg?style=flat-square
-[downloads-url]: https://github.com/mastersign/HTMLDisplay/releases/latest/
-[downloads-img]: https://img.shields.io/github/downloads/mastersign/HTMLDisplay/total.svg?style=flat-square
-[license-url]: https://github.com/mastersign/HTMLDisplay/blob/master/LICENSE.md
-[license-img]: https://img.shields.io/github/license/mastersign/HTMLDisplay.svg?style=flat-square
-[issues-url]: https://github.com/mastersign/HTMLDisplay/issues
-[issues-img]: https://img.shields.io/github/issues/mastersign/HTMLDisplay.svg?style=flat-square
+[release-url]: https://github.com/mastersign/Mastersign.HtmlDisplay/releases/latest/
+[release-img]: https://img.shields.io/github/release/mastersign/Mastersign.HtmlDisplay.svg?style=flat-square
+[downloads-url]: https://github.com/mastersign/Mastersign.HtmlDisplay/releases/latest/
+[downloads-img]: https://img.shields.io/github/downloads/mastersign/Mastersign.HtmlDisplay/total.svg?style=flat-square
+[license-url]: https://github.com/mastersign/Mastersign.HtmlDisplay/blob/master/LICENSE.md
+[license-img]: https://img.shields.io/github/license/mastersign/Mastersign.HtmlDisplay.svg?style=flat-square
+[issues-url]: https://github.com/mastersign/Mastersign.HtmlDisplay/issues
+[issues-img]: https://img.shields.io/github/issues/mastersign/Mastersign.HtmlDisplay.svg?style=flat-square
